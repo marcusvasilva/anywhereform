@@ -39,4 +39,4 @@ vercel
 2. Configure o método de envio
 3. Adicione as credenciais necessárias
 
-Veja `DEPLOY.md` para instruções detalhadas!
+Veja `DEPLOY.md` para instruções detalhadas!# anywhereform
