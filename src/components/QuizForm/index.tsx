@@ -75,7 +75,7 @@ export function QuizForm() {
 
   // Telas de perguntas
   const currentQuestion = questions[currentStep]
-  const currentValue = formData[currentQuestion.field as keyof FormData] as string
+  const currentValue = formData[currentQuestion.field as keyof AnyformData] as string
 
   return (
     <QuestionScreen
